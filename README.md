@@ -8,11 +8,11 @@ This repository contains raw data and R code used within the following publicati
 
 Maja Ilić1,2*, Mathilde Cordellier3† and Patrick Fink1,4,5°
 
-1 University of Cologne, Institute for Zoology, Zülpicher Strasse 47b, 50674 Köln, Germany 
-2 Present address: Queen’s University Belfast, School of Biological Sciences, 19 Chlorine Gardens, Belfast BT9 5DL, United Kingdom 
-3 Universität Hamburg, Institute of Zoology, Martin-Luther-King Platz 3, 20146 Hamburg, Germany
-4 Helmholtz Centre of Environmental Research – UFZ, Department River Ecology, Brückstrasse 3a, 39114 Magdeburg, Germany 
-5 Helmholtz Centre of Environmental Research – UFZ, Department Aquatic Ecosystem Analysis and Management, Brückstrasse 3a, 39114 Magdeburg, Germany
+1 University of Cologne, Institute for Zoology, Zülpicher Strasse 47b, 50674 Köln, Germany   
+2 Present address: Queen’s University Belfast, School of Biological Sciences, 19 Chlorine Gardens, Belfast BT9 5DL, United Kingdom   
+3 Universität Hamburg, Institute of Zoology, Martin-Luther-King Platz 3, 20146 Hamburg, Germany  
+4 Helmholtz Centre of Environmental Research – UFZ, Department River Ecology, Brückstrasse 3a, 39114 Magdeburg, Germany   
+5 Helmholtz Centre of Environmental Research – UFZ, Department Aquatic Ecosystem Analysis and Management, Brückstrasse 3a, 39114 Magdeburg, Germany  
 
 Author for correspondence: 
 E-mail: *maja.ilic.bio@gmail.com*
