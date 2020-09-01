@@ -14,7 +14,7 @@ Maja Ilić1,2*, Mathilde Cordellier3† and Patrick Fink1,4,5°
 4 Helmholtz Centre of Environmental Research – UFZ, Department River Ecology, Brückstrasse 3a, 39114 Magdeburg, Germany 
 5 Helmholtz Centre of Environmental Research – UFZ, Department Aquatic Ecosystem Analysis and Management, Brückstrasse 3a, 39114 Magdeburg, Germany
 
-* Author for correspondence: 
+Author for correspondence: 
 E-mail: *maja.ilic.bio@gmail.com*
 ORCID iD: 0000-0002-8387-9932
 
@@ -26,26 +26,26 @@ ORCID iD: 0000-0002-5927-8977
 
 # Raw data
 
-Raw data can be found in the Excel file *Raw data Ilic, Cordellier and Fink, Freshwater Biology.xlsx*
-Sheet *SGR*: somatic growth rate for each genotype 
-Sheet *Susceptibility*: susceptibility for each genotype
+Raw data can be found in the Excel file *Raw data Ilic, Cordellier and Fink, Freshwater Biology.xlsx*  
+Sheet *SGR*: somatic growth rate for each genotype   
+Sheet *Susceptibility*: susceptibility for each genotype  
 
 **Explanation of all variables (columns):**
 
-*Day*: Gives a day of the year 2017 on which each individual experiment was started within the experimental period (March - November 2017)                        
-       Day 1: 1st of January, 2017                                                   
+*Day*: Gives a day of the year 2017 on which each individual experiment was started within the experimental period (March - November 2017)                          
+       Day 1: 1st of January, 2017                                                     
                                                                                     
-*Experiment_Nr*: Number of the experiment for every of the genotypes (at least 3 experiments per genotype)                               
+*Experiment_Nr*: Number of the experiment for every of the genotypes (at least 3 experiments per genotype)                                 
                                                                                     
-*Genotype*: Laboratory code/name for each *D. longispina genotype* isolated from the Lake Klostersee (KL) and used in this study                          
+*Genotype*: Laboratory code/name for each *D. longispina genotype* isolated from the Lake Klostersee (KL) and used in this study                            
                                                                                     
-*Species*: Species, identified following Rusek et al. (2015).                        
-           Note that 11 out of 12 genotypes are *D. longispina*, while only the genotype KL8 is a *D. longispina × cucullata* hybrid                    
+*Species*: Species, identified following Rusek et al. (2015).                          
+           Note that 11 out of 12 genotypes are *D. longispina*, while only the genotype KL8 is a *D. longispina × cucullata* hybrid                      
                                                                                     
-*PUFA*: Liposomes used to supplement the diet (green alga Acutodesmus obliquus) with following PUFAs: 
-        C - control liposomes, PUFA-free;                      
-        ALA - alpha-linolenic acid;                            
-        EPA - eicosapentaenoic acid;                           
+*PUFA*: Liposomes used to supplement the diet (green alga Acutodesmus obliquus) with following PUFAs:   
+        C - control liposomes, PUFA-free                        
+        ALA - alpha-linolenic acid                              
+        EPA - eicosapentaenoic acid                             
         ARA - arachidonic acid                                 
                              
 *Growth_rate*: Somatic growth rate of *Daphnia* individuals (after 6 days of experiment) in every jar per treatment (see Liposome), calculated with the Eq. 1 (see M and M)
