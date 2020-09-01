@@ -55,14 +55,16 @@ Sheet *Susceptibility*: susceptibility for each genotype
                   
 # R code
 
-R code is subdivided into four scripts, labelled with 01-04.
+R code is subdivided into four main scripts, labelled with 01-04.
 
 Part 1: Somatic growth rate - Linear mixed-effects models (for entire population)  
 Part 2: Somatic growth rate - Linear mixed-effects models (for each clone individually)  
 Part 3: Susceptibility - Linear mixed-effects models (for entire population)  
 Part 4: Susceptibility - Linear mixed-effects models (for each clone individually)  
 
-All required packages are given at the very beginning of each script.
+All required packages are given at the very beginning of each script.  
+
+Additionally, two more scripts are provided which contain functions used within the main scripts.  
 
 # Final notes
 
